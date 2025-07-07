@@ -11,11 +11,11 @@
 //Parametros para Simulated Annealing
 const double T = 100.0;
 const double cooling_rate = 0.95; 
-const double temp_threshold = 0.001;
+const double temp_threshold = 5.0;
 
 //Variables Globales - Parametros experimentos
 const std::string instances_dir = "instancias"; 
-const std::string output_data = "sim_ann_results_Threshold.txt";
+const std::string output_data = "sim_ann_results.csv";
 const int NUM_SIMULATIONS = 1000; 
 const bool verbose = false; // true to print detailed output
 
