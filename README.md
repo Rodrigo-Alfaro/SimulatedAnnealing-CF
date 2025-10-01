@@ -1,6 +1,7 @@
 # Simulated Annealing for Collision-Free Path Planning 
 
-*This was a project for Artificial Intelligence INF-295*
+*This was a project for Artificial Intelligence INF-295. read the written report [here](./docs/informe.pdf)*
+
 
 ## File Structure
 - [main](https://github.com/Rodrigo-Alfaro/SimulatedAnnealing-FC/blob/main/main.cpp): Where everything related to the execution of the simulations is. Check the headers for the parameter definitions related to the algorithm parameters and simulation parameters
